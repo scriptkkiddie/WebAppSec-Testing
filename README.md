@@ -1,2 +1,2 @@
-# WebAppSec-Testing
+# WebAppSec Testing
 Web Application Security Testing
